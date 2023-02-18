@@ -1,0 +1,104 @@
+
+
+body{
+
+}
+
+
+.mydiv{
+
+    background-color: #8089FF;
+}
+
+.mycontainer{
+    
+    background-color: #8089FF;
+}
+
+
+.mynav{
+
+    
+
+}
+
+.navbar-brand{
+font-size: 40px;
+font-weight:800px;
+height: 40px;
+margin-top: -20px;
+color: white;
+}
+
+.mylink{
+   margin-left: 20px;
+   font-weight: 600;
+   color: white;
+}
+
+.mybtn{
+    background: #FFF;
+color: #8089ff;
+
+font-size: .9rem;
+font-weight: 600;
+font-family: "Source Sans Pro", sans-serif;
+display: inline-block;
+line-height: 1.5;
+border-radius: 50rem;
+}
+
+.myschrift{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    font-size: 3.6rem;
+    font-family: "Source Sans Pro", sans-serif;
+font-weight: 700;
+line-height: 1.1;
+color: white;
+}
+
+.mypara{
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    font-family: "Open Sans", sans-serif;
+font-size: 1rem;
+font-weight: 700;
+color: white;
+line-height: 1.4;
+}
+
+.mybutton1{
+    margin-right: 1rem;
+    margin-bottom: 0;
+    font-size: .95rem;
+padding: .6rem 1.5rem;
+letter-spacing: .03rem;
+background: linear-gradient(45deg, #fe60a1 0%, #ff8765 100%);
+font-weight: 600;
+line-height: 1.4;
+border-radius: 50rem;
+border: 0 solid transparent;
+color: white;
+margin-left: 650px;
+}
+
+.mybutton2{
+    background: linear-gradient(45deg, #19d9b4 0%, #92d275 100%);
+    margin-bottom: 0;
+    margin-right: 0;
+    color: #FFF;
+    font-size: .95rem;
+padding: .6rem 1.5rem;
+letter-spacing: .03rem;
+border: 0 solid transparent;
+font-weight: 600;
+line-height: 1.4;
+border-radius: 50rem;
+}
+
+.myimg{
+    margin-left: 250px;
+    max-width: 1000px;
+}
